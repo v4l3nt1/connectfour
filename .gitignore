@@ -1,0 +1,8 @@
+__pycache__/
+.idea/
+build/
+source/_build/
+source/_static/
+source/_templates/
+venv/
+
